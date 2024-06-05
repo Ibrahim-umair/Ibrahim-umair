@@ -1,7 +1,10 @@
 ## Hi there, I'm Ibrahim 👋
 
 
-CS Undergrad Student | Software Development Enthusiast | Technophile
+###CS Undergrad Student | Software Development Enthusiast | Technophile
+
+![gif-coding](https://github.com/Ibrahim-umair/Ibrahim-umair/assets/140648780/4107701b-d53a-4cf6-980f-7c5488f8a535)
+
 
 - 🌱 I’m currently learning Frontend Development and Backend Engineering
 - 🔭 I’m currently working to build a learning portal using MERN
@@ -9,8 +12,6 @@ CS Undergrad Student | Software Development Enthusiast | Technophile
 - ⚡ Techthusiast
 
 Connect with me [here](https://www.linkedin.com/in/ibrahim-bin-umair-a99899247/)
-
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 
 
 

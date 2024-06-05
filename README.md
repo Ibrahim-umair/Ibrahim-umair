@@ -5,6 +5,7 @@
 
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761173bd9a068d6f4ccb3d73276ea24c7b4c9cb54760&rid=giphy.gif&ct=g" />
 
+### CS Undergrad Student | Software Development Enthusiast | Technophile
 
 
 - 🌱 I’m currently learning Frontend Development and Backend Engineering

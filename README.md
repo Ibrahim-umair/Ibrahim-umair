@@ -8,25 +8,13 @@
 
 
 - 🌱 I’m currently learning Frontend Development and Backend Engineering
+- 🎓 Currently, I'm studying Computer Science at NUCES.
 - 🔭 I’m currently working to build a learning portal using MERN
 - 👯 I’m looking to collaborate with other developers and students 
 - ⚡ Techthusiast
 
-Connect with me [here](https://www.linkedin.com/in/ibrahim-bin-umair-a99899247/)
+Get In Touch here:
 
-
-
-<!--
-**Ibrahim-umair/Ibrahim-umair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Email:** [ibrahimumair900@gmail.com](mailto:ibrahimumair900@gmail.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ibrahim-bin-umair-a99899247/)
+- **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)

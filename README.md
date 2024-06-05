@@ -1,7 +1,7 @@
 ## Hi there, I'm Ibrahim 👋
 
 
-###CS Undergrad Student | Software Development Enthusiast | Technophile
+### CS Undergrad Student | Software Development Enthusiast | Technophile
 
 ![gif-coding](https://github.com/Ibrahim-umair/Ibrahim-umair/assets/140648780/4107701b-d53a-4cf6-980f-7c5488f8a535)
 

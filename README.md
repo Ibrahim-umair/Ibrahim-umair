@@ -3,9 +3,8 @@
 
 ### CS Undergrad Student | Software Development Enthusiast | Technophile
 
-<div align="right">
-  <img src="https://github.com/Ibrahim-umair/Ibrahim-umair/assets/140648780/4107701b-d53a-4cf6-980f-7c5488f8a535" alt="gif-coding" width="200"/>
-</div>
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761173bd9a068d6f4ccb3d73276ea24c7b4c9cb54760&rid=giphy.gif&ct=g" />
+
 
 
 - 🌱 I’m currently learning Frontend Development and Backend Engineering
